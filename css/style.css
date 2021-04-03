@@ -1,0 +1,23 @@
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    font-size: 250%;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    background-image: url("new.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 968px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+    width: 100%;
+}
